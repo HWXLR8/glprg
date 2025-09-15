@@ -7,7 +7,6 @@
 #include <graphic.hpp>
 #include <input.hpp>
 #include <text.hpp>
-#include <tier.hpp>
 
 class GLPRG {
  public:
